@@ -10,7 +10,7 @@ Edit `/streamlit_app.py` and `/pages/*.py`to customize this app.
 
 To see an online demo, use this link:
 
-[https://share.streamlit.io/sebastiandres/template_streamlit/main](https://share.streamlit.io/sebastiandres/template_streamlit/main)
+[https://sebastiandres.github.io/NAME_OF_APP](https://sebastiandres.github.io/NAME_OF_APP)
 
 ## Local run
 
